@@ -2,8 +2,7 @@
 //  ContentView.swift
 //  ShoppingApp
 //
-//  Created by vinayagamoorthi on 26/07/26.
-//
+
 
 import SwiftUI
 
