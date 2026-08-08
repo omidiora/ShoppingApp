@@ -27,7 +27,7 @@ struct CartView: View {
                     cartContent
                 }
             }
-        }
+        } .navigationBarBackButtonHidden(true)
    
     }
     
